@@ -3,7 +3,7 @@ DC Core integration/staging tree
 
 http://www.dcpass.io
 
-What is DC?
+What is DC PASS?
 ----------------
 
 DC is a kind of protocol token, which is also a bifurcated currency of YF series. It aims to solve the overall planning problem of YF series currency. 
